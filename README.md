@@ -1,6 +1,6 @@
 # Ex.No.6 AI-Assisted Programming and Debugging
-## Name : B V REVANTH KUMAR
-## Register No.: 212224240023
+## Name : Yazhini S
+## Register No.: 212223050062
 
 # Aim:
 
